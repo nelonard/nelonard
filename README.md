@@ -14,3 +14,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hello World!
+
+
+
+:paperclip: Atualmente trabalhando como especialista em sistemas de segurança eletrônica
+
+
+:books: Análise e Desenvolvimento de Sistemas - <a href="https://https://www.unip.br/presencial/">UNIP</a>
+
+
+:computer: Tech Lover!
+:blue_heart: Music
+:video_game: FPS | Fighting Games Player
+
+
+:heavy_exclamation_mark: Problem? :heavy_check_mark: Solved!
+
+
+
+
