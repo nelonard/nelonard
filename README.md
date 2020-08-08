@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **nelonard/nelonard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,10 +22,21 @@ Hello World!
 :paperclip: Atualmente trabalhando como especialista em sistemas de segurança eletrônica
 
 
-:books: Análise e Desenvolvimento de Sistemas - <a href="https://https://www.unip.br/presencial/">UNIP</a>
+:mortar_board: Análise e Desenvolvimento de Sistemas - <a href="https://https://www.unip.br/presencial/">UNIP</a>
+
+:books: Estudando JavaScript, Node.js e React!
+
+Você poderá me encontrar no <a href="https://www.linkedin.com/in/leonardo-silva-1626b8161/">LinkedIn: :office:</a>
 
 
-:computer: Tech Lover!
+ou
+
+<a href="https:instagram.com/nelonardo"> Instagram:camera:</a>
+
+
+
+
+:computer: Tech Lover
 :blue_heart: Music
 :video_game: FPS | Fighting Games Player
 
