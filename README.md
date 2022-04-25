@@ -19,12 +19,12 @@ Hello World!
 
 
 
-:paperclip: Atualmente trabalhando como especialista em sistemas de segurança eletrônica
+:paperclip: Atualmente trabalhando como Analista de integração em projetos de segurança eletrônica
 
 
 :mortar_board: Análise e Desenvolvimento de Sistemas - <a href="https://https://www.unip.br/presencial/">UNIP</a>
 
-:books: Estudando JavaScript, Node.js e React!
+
 
 Você poderá me encontrar no <a href="https://www.linkedin.com/in/leonardo-silva-1626b8161/">LinkedIn: :office:</a>
 
