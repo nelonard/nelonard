@@ -19,7 +19,7 @@ Hello World!
 
 
 
-:paperclip: Atualmente trabalhando como Analista de integração em projetos de segurança eletrônica
+:paperclip: Atualmente trabalhando como Especialista de software, voltado para integrações com 3rd parties na Dahua Technology
 
 
 :mortar_board: Análise e Desenvolvimento de Sistemas - <a href="https://https://www.unip.br/presencial/">UNIP</a>
