@@ -31,7 +31,7 @@ Você poderá me encontrar no <a href="https://www.linkedin.com/in/leonardo-silv
 
 ou
 
-<a href="https:instagram.com/nelonardo"> Instagram:camera:</a>
+<a href="https:instagram.com/nelonardo"> Instagram:</a>
 
 
 
